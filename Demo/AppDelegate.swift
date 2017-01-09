@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Firebase
+//  Demo
 //
 //  Created by Ben Sarrazin on 2017-01-09.
 //  Copyright © 2017 Berzerker IO. All rights reserved.

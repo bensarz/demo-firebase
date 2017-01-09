@@ -1,15 +1,15 @@
 //
-//  FirebaseTests.swift
-//  FirebaseTests
+//  DemoTests.swift
+//  DemoTests
 //
 //  Created by Ben Sarrazin on 2017-01-09.
 //  Copyright © 2017 Berzerker IO. All rights reserved.
 //
 
 import XCTest
-@testable import Firebase
+@testable import Demo
 
-class FirebaseTests: XCTestCase {
+class DemoTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,11 +1,11 @@
 platform :ios, '10.2'
 
-target 'Firebase' do
+target 'Demo' do
 	
   use_frameworks!
   pod 'Firebase/Core'
 
-  target 'FirebaseTests' do
+  target 'DemoTests' do
     inherit! :search_paths
   end
 
