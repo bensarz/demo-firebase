@@ -13,6 +13,7 @@
 		B5B20E861E23FD610091B4F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5B20E851E23FD610091B4F3 /* Assets.xcassets */; };
 		B5B20E891E23FD610091B4F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5B20E871E23FD610091B4F3 /* LaunchScreen.storyboard */; };
 		B5B20E941E23FD610091B4F3 /* FirebaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B20E931E23FD610091B4F3 /* FirebaseTests.swift */; };
+		B5B20EA41E2438920091B4F3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B5B20EA31E2438920091B4F3 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +38,7 @@
 		B5B20E931E23FD610091B4F3 /* FirebaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseTests.swift; sourceTree = "<group>"; };
 		B5B20E951E23FD610091B4F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5B20EA21E23FDF40091B4F3 /* Firebase.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Firebase.entitlements; sourceTree = "<group>"; };
+		B5B20EA31E2438920091B4F3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 		B5B20EA01E23FD930091B4F3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B5B20EA31E2438920091B4F3 /* GoogleService-Info.plist */,
 				B5B20E8A1E23FD610091B4F3 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -221,6 +224,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5B20E891E23FD610091B4F3 /* LaunchScreen.storyboard in Resources */,
+				B5B20EA41E2438920091B4F3 /* GoogleService-Info.plist in Resources */,
 				B5B20E861E23FD610091B4F3 /* Assets.xcassets in Resources */,
 				B5B20E841E23FD610091B4F3 /* Main.storyboard in Resources */,
 			);
